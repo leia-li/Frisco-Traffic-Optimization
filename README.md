@@ -12,3 +12,8 @@ Validation test (665 May 15):
 6. Do calculated view for 5 min intervals
 
 Create database and table in MySQL
+
+Issues:
+- setting up mysql connection (uninstall mysql-connector-python -y was needed)
+- checked configuration in mysql (ALTER USER 'root'@'localhost' IDENTIFIED WITH mysql_native_password BY 'your_password';
+FLUSH PRIVILEGES;)
