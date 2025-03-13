@@ -13,6 +13,15 @@ Validation test (665 May 15):
 
 Create database and table in MySQL
 
+Measures in PowerBI:
+
+
+Edits to make to MySQL queries:
+- change lane to "lane grouping"
+- import normalized data to Power BI
+- add fields for street, intersection (i.e. what will become filters on the overview page)
+
+
 Issues:
 - setting up mysql connection (uninstall mysql-connector-python -y was needed)
 - checked configuration in mysql (ALTER USER 'root'@'localhost' IDENTIFIED WITH mysql_native_password BY 'your_password';
