@@ -14,6 +14,13 @@ Validation test (665 May 15):
 Create database and table in MySQL
 
 Measures in PowerBI:
+time_5min
+time_15min
+time_60min
+approach
+movement_type
+peak_period
+
 
 
 Edits to make to MySQL queries:
