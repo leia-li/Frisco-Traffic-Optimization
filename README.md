@@ -11,6 +11,11 @@ Validation test (665 May 15):
 5. Validate loading (17XXXX rows for 665 May 15 signal 82)
 6. Do calculated view for 5 min intervals
 
+Data Transformation Layers
+1. derived_atspm: time in all forms, each row 1 car (dependencies: all following layers)
+3. aggr_5min/15min/60min: counts in 5min, 15min, and 60 min intervals (dependency: derived_atspm)
+4. aggr_lane_metrics: lane metrics for peak hour within peak periods
+
 Create database and table in MySQL
 
 Measures in PowerBI:
