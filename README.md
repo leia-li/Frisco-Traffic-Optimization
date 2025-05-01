@@ -1,6 +1,6 @@
 # Frisco-Traffic-Optimization
 
-# Approach Overview
+## Approach Overview
 1. Create a table in MySQL to store raw data loaded from the parquet file.
 2. Perform 3 layers of transformation on top of the raw data:
    1. A derived layer that introduces columns for directions, lane groupings, and intervals for later aggregation layers (named derived_atspm)
@@ -13,7 +13,7 @@
    4. aggr_lane_metrics.csv
 6. Connect Power BI dashboard data source to 4 .csv files.
 
-# Data Transformation:
+## Data Transformation:
 1. Local environment set up
 - Download MySQL Workbench, JupyterNotebook, Power BI
 - Download MySQL connector
@@ -25,7 +25,7 @@
 7. Download rest of data (using this Python script) and run steps #3-#6 with rest of data.
 
 
-Troubleshooted Issues:
+## Troubleshooted Issues:
 - setting up mysql connection (uninstall mysql-connector-python -y was needed)
 - checking configuration in mysql (ALTER USER 'root'@'localhost' IDENTIFIED WITH mysql_native_password BY 'your_password';
 FLUSH PRIVILEGES;)
