@@ -1,5 +1,15 @@
 # Frisco-Traffic-Optimization
 
+Dashboard [link](https://app.powerbi.com/links/ZjQWaFjl68?ctid=8d281d1d-9c4d-4bf7-b16e-032d15de9f6c&pbi_source=linkShare&bookmarkGuid=55832c58-6bbb-433f-b11f-9ba9c01914a8) and screenshots:
+
+<img width="1007" alt="Screen Shot 2025-05-01 at 6 32 37 PM" src="https://github.com/user-attachments/assets/456bd6f7-2617-422b-b2c8-4814f3d8bc49" />
+
+<img width="988" alt="Screen Shot 2025-05-01 at 6 32 55 PM" src="https://github.com/user-attachments/assets/3909e4cb-4c90-4c2b-945a-a6daadff6eb6" />
+
+<img width="988" alt="Screen Shot 2025-05-01 at 6 33 04 PM" src="https://github.com/user-attachments/assets/eaf28ccd-8f01-49a0-9aa3-f9cd1a821d2c" />
+
+<img width="988" alt="Screen Shot 2025-05-01 at 6 33 11 PM" src="https://github.com/user-attachments/assets/a7d0abb0-d09a-47cb-b2f0-6881de3560ad" />
+
 ## Approach Overview
 
 Diagram of data transformation and loading process:
