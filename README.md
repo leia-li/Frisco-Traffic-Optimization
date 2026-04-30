@@ -1,6 +1,6 @@
 # Frisco ATSPM Dashboard
 
-Dashboard [link](https://app.powerbi.com/links/ZjQWaFjl68?ctid=8d281d1d-9c4d-4bf7-b16e-032d15de9f6c&pbi_source=linkShare&bookmarkGuid=55832c58-6bbb-433f-b11f-9ba9c01914a8) and screenshots:
+Dashboard [link](https://app.powerbi.com/view?r=eyJrIjoiYjQ3MDg2NDYtZmViYS00OWIyLWJhMzItNDllNmRiMTY5MzI1IiwidCI6IjhkMjgxZDFkLTljNGQtNGJmNy1iMTZlLTAzMmQxNWRlOWY2YyIsImMiOjN9) and screenshots:
 
 <img width="1007" alt="Screen Shot 2025-05-01 at 6 32 37 PM" src="https://github.com/user-attachments/assets/456bd6f7-2617-422b-b2c8-4814f3d8bc49" />
 
